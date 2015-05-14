@@ -1,0 +1,5 @@
+C:\Users\ruzhyo\Desktop\sicll\sicll\bin\Debug\sicll.exe
+C:\Users\ruzhyo\Desktop\sicll\sicll\bin\Debug\sicll.pdb
+C:\Users\ruzhyo\Desktop\sicll\sicll\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ruzhyo\Desktop\sicll\sicll\obj\x86\Debug\sicll.exe
+C:\Users\ruzhyo\Desktop\sicll\sicll\obj\x86\Debug\sicll.pdb

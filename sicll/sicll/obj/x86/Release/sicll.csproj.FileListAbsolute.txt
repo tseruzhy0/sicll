@@ -1,0 +1,10 @@
+F:\sicll\sicll\obj\x86\Release\ResolveAssemblyReference.cache
+F:\sicll\sicll\bin\Release\sicll.exe
+F:\sicll\sicll\bin\Release\sicll.pdb
+F:\sicll\sicll\obj\x86\Release\sicll.exe
+F:\sicll\sicll\obj\x86\Release\sicll.pdb
+C:\Users\ruzhyo\Desktop\sicll\sicll\obj\x86\Release\sicll.exe
+C:\Users\ruzhyo\Desktop\sicll\sicll\obj\x86\Release\sicll.pdb
+C:\Users\ruzhyo\Desktop\sicll\sicll\bin\Release\sicll.exe
+C:\Users\ruzhyo\Desktop\sicll\sicll\bin\Release\sicll.pdb
+C:\Users\ruzhyo\Desktop\sicll\sicll\obj\x86\Release\ResolveAssemblyReference.cache
